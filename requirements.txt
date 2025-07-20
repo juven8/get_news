@@ -2,4 +2,5 @@ requests
 uuid
 pyttsx3
 pydub
+pyaudio
 streamlit
