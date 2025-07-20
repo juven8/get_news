@@ -1,0 +1,5 @@
+requests
+uuid
+pyttsx3
+pydub
+streamlit
